@@ -1,0 +1,35 @@
+{
+    "name": "personal-extension-pack",
+    "displayName": "personal-extension-pack",
+    "description": "My personal pack of VSCode extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bierner.color-info", 
+        "ChakrounAnas.turbo-console-log", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "cssho.vscode-svgviewer", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "emmanuelbeziat.vscode-great-icons", 
+        "esbenp.prettier-vscode", 
+        "mrmlnc.vscode-scss",
+        "ms-python.python",
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "ms-vsliveshare.vsliveshare", 
+        "msjsdiag.debugger-for-chrome", 
+        "oderwat.indent-rainbow", 
+        "WakaTime.vscode-wakatime", 
+        "WallabyJs.quokka-vscode",
+        "formulahendry.auto-rename-tag",
+        "wayou.vscode-todo-highlight", 
+        "wix.vscode-import-cost",
+        "coenraads.bracket-pair-colorizer-2"
+    ]
+}
