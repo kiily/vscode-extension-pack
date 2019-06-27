@@ -5,14 +5,26 @@
 
 ----
 ## This Pack contains the following extensions
-*   [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
-*   [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)
-*   [GitLens - Git supercharged](https://github.com/eamodio/vscode-gitlens)
-*   [Import Cost](https://github.com/wix/import-cost)
-*   [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
-*   [TODO Highlight](https://github.com/wayou/vscode-todo-highlight)
-*   [TSLint](https://github.com/Microsoft/vscode-tslint)
-*   [VS Live Share](https://github.com/MicrosoftDocs/live-share)
+*   [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+*   [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+*   [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
+*   [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+*   [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+*   [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+*   [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+*   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+*   [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+*   [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+*   [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+*   [SCSS Intellinsense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+*   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+*   [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+*   [VSCode Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+*   [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+*   [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+*   [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+*   [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+*   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 ----
 ## How to generate the Pack

@@ -15,26 +15,26 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "bierner.color-info", 
         "ChakrounAnas.turbo-console-log", 
+        "WakaTime.vscode-wakatime", 
+        "WallabyJs.quokka-vscode",
+        "bierner.color-info", 
         "christian-kohler.npm-intellisense", 
         "christian-kohler.path-intellisense", 
+        "coenraads.bracket-pair-colorizer-2",
         "cssho.vscode-svgviewer", 
         "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "emmanuelbeziat.vscode-great-icons", 
+        "eamodio.gitlens",
         "esbenp.prettier-vscode", 
+        "formulahendry.auto-rename-tag",
         "mrmlnc.vscode-scss",
         "ms-python.python",
         "ms-vscode.vscode-typescript-tslint-plugin", 
         "ms-vsliveshare.vsliveshare", 
         "msjsdiag.debugger-for-chrome", 
         "oderwat.indent-rainbow", 
-        "WakaTime.vscode-wakatime", 
-        "WallabyJs.quokka-vscode",
-        "formulahendry.auto-rename-tag",
+        "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight", 
-        "wix.vscode-import-cost",
-        "coenraads.bracket-pair-colorizer-2"
+        "wix.vscode-import-cost"
     ]
 }
