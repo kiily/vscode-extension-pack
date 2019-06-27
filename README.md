@@ -1,16 +1,33 @@
 # README
 
-## This is the README for your extension pack "personal-extension-pack"
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Welcome my Personal VSCode Extension Pack
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+----
+## This Pack contains the following extensions
+*   [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
+*   [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)
+*   [GitLens - Git supercharged](https://github.com/eamodio/vscode-gitlens)
+*   [Import Cost](https://github.com/wix/import-cost)
+*   [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
+*   [TODO Highlight](https://github.com/wayou/vscode-todo-highlight)
+*   [TSLint](https://github.com/Microsoft/vscode-tslint)
+*   [VS Live Share](https://github.com/MicrosoftDocs/live-share)
 
-## For more information
+----
+## How to generate the Pack
+-> You first need the vsce package :
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+    npm install -g vsce
 
-**Enjoy!**
+-> Inside the extension pack folder do the following command :
+
+    vsce package
+
+-> For more information : [vsce](https://code.visualstudio.com/docs/extensions/publish-extension)
+
+----
+## How to install the Pack in VS code
+-> Once the Pack is created, do the following command :
+
+    code --install-extension path/to/pack/filename.vsix
