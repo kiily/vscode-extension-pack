@@ -42,4 +42,4 @@
 ## How to install the Pack in VS code
 -> Once the Pack is created, do the following command :
 
-    code --install-extension personal-extension-pack-0.0.1
+    code --install-extension personal-extension-pack-0.0.1.vsix
