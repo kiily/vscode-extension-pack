@@ -22,6 +22,7 @@
 *   [VSCode Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 *   [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 *   [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+*   [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 *   [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 *   [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 *   [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
@@ -39,7 +40,7 @@
 -> For more information : [vsce](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 ----
-## How to install the Pack in VS code
--> Once the Pack is created, do the following command :
+## Install the Pack in VS code
+-> Run the following command to install the pack:
 
     code --install-extension personal-extension-pack-0.0.1.vsix

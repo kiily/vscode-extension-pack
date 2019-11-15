@@ -33,7 +33,8 @@
         "ms-vscode.vscode-typescript-tslint-plugin", 
         "ms-vsliveshare.vsliveshare", 
         "msjsdiag.debugger-for-chrome", 
-        "oderwat.indent-rainbow", 
+        "oderwat.indent-rainbow",
+        "pflannery.vscode-versionlens",
         "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight", 
         "wix.vscode-import-cost"
